@@ -1,0 +1,3 @@
+[submodule "ecoprosvet-backend"]
+	path = ecoprosvet-backend
+	url = https://github.com/Brajenko/ecoprosvet-backend
